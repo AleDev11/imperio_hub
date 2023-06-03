@@ -4,8 +4,11 @@
 [Web demo](https://imperiohub-qr24obbac-aledev11.vercel.app/auth)
 
 Credentials:
+```bash
 Email: demo@gmail.com
 Password: demoPass
+```
+##Installation 
 
 To start up the project, the steps to be followed are as follows:
 
