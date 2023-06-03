@@ -33,7 +33,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-##Preview images
+## Preview images
+
 ![image](https://github.com/AleDev11/imperio_hub/assets/91348432/5a7e46f4-dc7b-4d6f-b92f-407a9427509f)
 ![image](https://github.com/AleDev11/imperio_hub/assets/91348432/4b00fbaa-0d54-412c-9a98-a47ec2644b66)
 ![image](https://github.com/AleDev11/imperio_hub/assets/91348432/60d84a53-569e-4261-a98c-a14c404d603c)
