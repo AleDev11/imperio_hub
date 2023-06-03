@@ -8,11 +8,11 @@ DATABASE_URL=""
 NEXTAUTH_JWT_SECRET=""
 NEXTAUTH_SECRET=""
 
-GITHUB_ID=
-GITHUB_SECRET=
+GITHUB_ID=""
+GITHUB_SECRET=""
 
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
+GOOGLE_CLIENT_ID=""
+GOOGLE_CLIENT_SECRET=""
 ```
 
 Once the .env is created and the URL of the Mongodb DB is set we execute the following commands one by one in order to create the DB structure
