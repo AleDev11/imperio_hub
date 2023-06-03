@@ -10,7 +10,7 @@ Password: demoPass
 ```
 ## Installation 
 
-# To start up the project, the steps to be followed are as follows:
+To start up the project, the steps to be followed are as follows:
 
 We create the .env and fill it with the following structure and information
 ```bash
